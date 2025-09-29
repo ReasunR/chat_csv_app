@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "chat-csv-app"
+version = "0.1.0"
+description = "A web application for chatting with CSV files using PandasAI"
+authors = ["User <user@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+pandasai = ">=3.0.0b2"
+litellm = "^1.0.0"
+openai = "^1.0.0"
+google-generativeai = "^0.3.0"
+fastapi = "^0.104.0"
+uvicorn = "^0.24.0"
+python-multipart = "^0.0.6"
+pandas = "^2.0.0"
+python-dotenv = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

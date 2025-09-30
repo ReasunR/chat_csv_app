@@ -1,0 +1,21 @@
+date,product,category,sales_amount,quantity,customer_id,region
+2024-01-15,Laptop Pro,Electronics,1299.99,1,C001,North America
+2024-01-16,Wireless Mouse,Electronics,29.99,2,C002,Europe
+2024-01-17,Office Chair,Furniture,249.99,1,C003,Asia
+2024-01-18,Smartphone X,Electronics,899.99,1,C004,North America
+2024-01-19,Desk Lamp,Furniture,79.99,3,C005,Europe
+2024-01-20,Tablet Air,Electronics,599.99,1,C006,Asia
+2024-01-21,Coffee Maker,Appliances,149.99,1,C007,North America
+2024-01-22,Bluetooth Speaker,Electronics,89.99,2,C008,Europe
+2024-01-23,Standing Desk,Furniture,399.99,1,C009,Asia
+2024-01-24,Headphones Pro,Electronics,199.99,1,C010,North America
+2024-01-25,Microwave Oven,Appliances,299.99,1,C011,Europe
+2024-01-26,Gaming Chair,Furniture,349.99,1,C012,Asia
+2024-01-27,Smart Watch,Electronics,249.99,1,C013,North America
+2024-01-28,Air Fryer,Appliances,129.99,2,C014,Europe
+2024-01-29,Monitor 4K,Electronics,449.99,1,C015,Asia
+2024-01-30,Vacuum Cleaner,Appliances,199.99,1,C016,North America
+2024-02-01,Keyboard Mechanical,Electronics,159.99,1,C017,Europe
+2024-02-02,Bookshelf,Furniture,189.99,1,C018,Asia
+2024-02-03,Blender Pro,Appliances,99.99,1,C019,North America
+2024-02-04,Webcam HD,Electronics,79.99,2,C020,Europe

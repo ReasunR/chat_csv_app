@@ -1,0 +1,21 @@
+company_name,revenue,region,employees,founded_year,industry
+Apple Inc,394328000000,North America,164000,1976,Technology
+Microsoft Corp,211915000000,North America,221000,1975,Technology
+Amazon.com Inc,513983000000,North America,1608000,1994,E-commerce
+Alphabet Inc,307394000000,North America,174014,1998,Technology
+Tesla Inc,96773000000,North America,127855,2003,Automotive
+Meta Platforms,117929000000,North America,87314,2004,Technology
+Samsung Electronics,244161000000,Asia,267937,1969,Technology
+Toyota Motor Corp,279515000000,Asia,372817,1937,Automotive
+ASML Holding,21173000000,Europe,38000,1984,Technology
+TSMC,70851000000,Asia,65000,1987,Technology
+Nestle SA,103607000000,Europe,273000,1866,Consumer Goods
+LVMH,86153000000,Europe,213000,1987,Luxury Goods
+Unilever,60114000000,Europe,190000,1929,Consumer Goods
+Procter & Gamble,80187000000,North America,101000,1837,Consumer Goods
+Coca-Cola Co,43004000000,North America,82500,1892,Beverages
+PepsiCo Inc,86392000000,North America,315000,1965,Beverages
+Johnson & Johnson,94943000000,North America,152700,1886,Healthcare
+Pfizer Inc,100330000000,North America,83000,1849,Healthcare
+Roche Holding,68687000000,Europe,103613,1896,Healthcare
+Novartis AG,50034000000,Europe,104000,1996,Healthcare
